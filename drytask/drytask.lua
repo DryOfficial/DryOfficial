@@ -2,7 +2,7 @@
 		
 		https://github.com/DryOfficial/DryOfficial/blob/main/drytask/drytask.lua
 		
-		File Name : protask.lua [0.0.1]
+		File Name : drytask.lua [0.0.1]
 		Creator   : DryOfficial#2363
 		
 		drytask (Dry Task) is a basically task but simplified (probably),
