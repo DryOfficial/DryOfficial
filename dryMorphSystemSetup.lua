@@ -843,6 +843,8 @@ local function uniform()
 	rightUpperLeg1.Parent = morphyR15
 	
 	morphyR15.Parent = uniforms
+	
+	return uniforms
 end
 
 remote().Parent = game:GetService('ReplicatedStorage')
