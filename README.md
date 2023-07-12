@@ -10,8 +10,9 @@ Some of the stuff are old and works like a dogsh**, try them out if you want.
 # Projects
 ---
 **Doact (paused)** - Heavily inspired Roact but creates/do-act any sort of instances such as part.
-**DriedNet (completed)** - Threads and Signal
+
+**DriedNet (completed)** - Threads and Signal.
 
 ---
 ## Offsite Links
-[https://www.roblox.com/users/1688444306](ROBLOX Account)
+[ROBLOX Account](https://www.roblox.com/users/1688444306)
