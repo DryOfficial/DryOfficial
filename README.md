@@ -13,6 +13,10 @@ Some of the stuff are old and works like a dogsh**, try them out if you want.
 
 **DriedNet (completed)** - Threads and Signal.
 
+## Old Projects
+**~~dEvents~~** - Module for Events, replaced by DriedNet
+**~~dtask~~** - Module for Threads, replaced by DriedNet
+
 ---
 ## Offsite Links
 [ROBLOX Account](https://www.roblox.com/users/1688444306)
